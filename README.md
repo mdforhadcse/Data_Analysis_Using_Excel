@@ -19,13 +19,13 @@ I am given sales data of ***Plexus Biker’s Hub*** [Sales Data.xlsx]. Analyze t
 - Use formula to derive the month of sales (i.e. January, February) from the **Date** column.
 - Add any other column that might be necessary for the analysis. 
 
-#### Task 3 - Pivot table 
+#### Task 2 - Pivot table 
 Use pivot tables to summarize the data. Do not make more than five tables. 
 
-#### Task 4 - Dashboard
+#### Task 3 - Dashboard
 Make an interactive dashboard containing at least 5 to 8 charts. 
 
-#### Task 5 - Insights
+#### Task 4 - Insights
 Share five insights you’ve found from the analysis. Write them down in the excel sheet.   
 
 
