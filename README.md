@@ -29,3 +29,6 @@ Make an interactive dashboard containing at least 5 to 8 charts.
 Share five insights you’ve found from the analysis. Write them down in the excel sheet.   
 
 
+### Solution
+
+All Problem statement's solution can be found in [Result of Sales Data.xlsx](Result of Sales Data.xlsx)
