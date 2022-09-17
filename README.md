@@ -50,15 +50,24 @@ Use formula to derive the month of sales (i.e. January, February) from the Date 
 
 #### Solution of Task 2 - Pivot table 
 Use pivot tables to summarize the data. Do not make more than five tables.
-
+<br>
 Pivot-1 Image
+<br>
 ![Pivot-1 Image](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/images/Task%202/Pivot-1.PNG "Pivot-1 Image")
+<br>
 Pivot-2 Image
+<br>
 ![Pivot-2 Image](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/images/Task%202/Pivot-2.PNG "Pivot-2 Image")
+<br>
 Pivot-3 Image
+<br>
 ![Pivot-3 Image](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/images/Task%202/Pivot-3.PNG "Pivot-3 Image")
+<br>
 Pivot-4 Image
+<br>
 ![Pivot-4 Image](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/images/Task%202/Pivot-4.PNG "Pivot-4 Image")
+<br>
 Pivot-5 Image
+<br>
 ![Pivot-5 Image](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/images/Task%202/Pivot-5.PNG "Pivot-5 Image")
-
+<br>
