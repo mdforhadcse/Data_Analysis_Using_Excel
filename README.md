@@ -71,3 +71,16 @@ Pivot-5 Image
 <br>
 ![Pivot-5 Image](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/images/Task%202/Pivot-5.PNG "Pivot-5 Image")
 <br>
+
+
+
+#### Solution of Task 3 - Dashboard
+Make an interactive dashboard containing at least 5 to 8 charts.
+<br>
+![Dashboard image](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/images/Task%203/Dashboard.PNG "Dashboard")
+<br>
+
+#### Solution of Task 4 - Insights
+Share five insights you’ve found from the analysis. Write them down in the excel sheet.
+<br>
+![Insights image](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/images/Task%204/Insights.PNG "Insights")
