@@ -32,3 +32,13 @@ Share five insights you’ve found from the analysis. Write them down in the exc
 ### Solution
 
 All Problem statement's solution can be found in [Result of Sales Data.xlsx](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/Result%20of%20Sales%20Data.xlsx)
+<br>
+
+#### Solution of Task 1 - Dataset Preparation
+Use formula to derive the age group from the Customer Age column.
+
+![Use formula to derive the age group from the Customer Age column.](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/images/Task%201/1.%20Age%20Group.png "Age group")
+
+
+
+
