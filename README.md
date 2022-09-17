@@ -40,7 +40,8 @@ All Problem statement's solution can be found in [Result of Sales Data.xlsx](htt
 Use formula to derive the age group from the Customer Age column.<br>
 ![Use formula to derive the age group from the Customer Age column.](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/images/Task%201/1.%20Age%20Group.png "Age group")
 Find out ‘Customer Gender’ using Index Match (Not Vlookup)<br>
-![Finding out ‘Customer Gender’ using Index Match (Not Vlookup)](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/images/Task%201/2.%20Customer%20Gender%20sheet.png "Customer Gender sheet") <br>
+![Finding out ‘Customer Gender’ using Index Match (Not Vlookup)](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/images/Task%201/2.%20Customer%20Gender%20sheet.png "Customer Gender sheet") 
+<br>
 ![After Finding ‘Customer Gender’ using Index Match](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/images/Task%201/2.%20Customer%20Gender.png "Customer Gender")
 <br>
 Use formula to derive the month of sales (i.e. January, February) from the Date column.<br>
