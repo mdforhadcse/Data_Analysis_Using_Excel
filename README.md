@@ -28,6 +28,8 @@ Make an interactive dashboard containing at least 5 to 8 charts.
 #### Task 4 - Insights
 Share five insights you’ve found from the analysis. Write them down in the excel sheet.   
 
+<br>
+<br>
 
 ### Solution
 
@@ -35,10 +37,19 @@ All Problem statement's solution can be found in [Result of Sales Data.xlsx](htt
 <br>
 
 #### Solution of Task 1 - Dataset Preparation
+<br>
 Use formula to derive the age group from the Customer Age column.
-
 ![Use formula to derive the age group from the Customer Age column.](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/images/Task%201/1.%20Age%20Group.png "Age group")
+<br>
 
+Find out ‘Customer Gender’ using Index Match (Not Vlookup)
+![Finding out ‘Customer Gender’ using Index Match (Not Vlookup)](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/images/Task%201/2.%20Customer%20Gender%20sheet.png "Customer Gender sheet")
+![After Finding ‘Customer Gender’ using Index Match](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/images/Task%201/2.%20Customer%20Gender.png "Customer Gender")
+<br>
+
+Use formula to derive the month of sales (i.e. January, February) from the Date column.
+![Using formula to derive the month of sales](https://github.com/mdforhadcse/Data_Analysis_Using_Excel/blob/main/images/Task%201/3.%20Month%20of%20Sales.png "Month of Sales")
+<br>
 
 
 
